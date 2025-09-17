@@ -38,6 +38,16 @@ namespace ST10395938_PROG6212_POEPart1.Controllers
             return View();
         }
 
+       public IActionResult Reject()
+        {
+            return View();
+        }
+
+        public IActionResult Reject2()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
