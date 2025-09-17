@@ -6,21 +6,7 @@
 
 
 
-The *Contract Monthly Claim System (CMCS)* allows IC lecturers to submit monthly claims based on hours worked and hourly rates. Each claim undergoes approval by both the *Programme Coordinator* and the *Academic Manager*, emphasizing accuracy and accountability.
-
-
-
-Key functionalities include:
-
-
-
-- Submission of monthly claims with calculated totals.
-
-- Uploading and downloading supporting documents.
-
-- Commenting and approval workflow for both coordinators and managers.
-
-- Interactive and responsive user interface using C# and ASP.NET Core MVC.
+The **Contract Monthly Claim System (CMCS)** allows IC lecturers to submit monthly claims based on hours worked and hourly rates. Each claim undergoes approval by both the **Programme Coordinator** and the **Academic Manager**, emphasizing accuracy and accountability.
 
 
 
@@ -72,7 +58,7 @@ YourProject
 
 - **Track Claims**: View submitted claims with real-time filtering/search by Claim ID.
 
-- **Coordinator Approval**: Approve or reject claims, add comments, and download documents.
+- **Coordinator Approval**: Approve or reject claims, add comments, and document access.
 
 - **Manager Approval**: Final approval workflow with comments and document access.
 
@@ -84,15 +70,13 @@ YourProject
 
 - **ASP.NET Core MVC** (.NET 9.0)
 
-- **C#** for backend logic
-
 - **Razor Views** for UI templates
 
 - **Bootstrap 5** for styling and responsive layout
 
 
 
-Author
+## Author
 
 
 
