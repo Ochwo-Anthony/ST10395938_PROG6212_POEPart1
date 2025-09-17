@@ -2,11 +2,11 @@
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
-The \*\*Contract Monthly Claim System (CMCS)\*\* allows IC lecturers to submit monthly claims based on hours worked and hourly rates. Each claim undergoes approval by both the \*\*Programme Coordinator\*\* and the \*\*Academic Manager\*\*, emphasizing accuracy and accountability.
+The *Contract Monthly Claim System (CMCS)* allows IC lecturers to submit monthly claims based on hours worked and hourly rates. Each claim undergoes approval by both the *Programme Coordinator* and the *Academic Manager*, emphasizing accuracy and accountability.
 
 
 
@@ -14,33 +14,33 @@ Key functionalities include:
 
 
 
-\- Submission of monthly claims with calculated totals.
+- Submission of monthly claims with calculated totals.
 
-\- Uploading and downloading supporting documents.
+- Uploading and downloading supporting documents.
 
-\- Commenting and approval workflow for both coordinators and managers.
+- Commenting and approval workflow for both coordinators and managers.
 
-\- Interactive and responsive user interface using C# and ASP.NET Core MVC.
-
-
-
-\## Folder Structure
+- Interactive and responsive user interface using C# and ASP.NET Core MVC.
 
 
 
-YourProject/
+## Folder Structure
+
+
+
+YourProject
 
 │
 
-├── Controllers/
+├── Controllers
 
 │ └── HomeController.cs
 
 │
 
-├── Views/
+├── Views
 
-│ ├── Home/
+│ ├── Home
 
 │ │ ├── Index.cshtml
 
@@ -54,7 +54,7 @@ YourProject/
 
 │ │
 
-│ └── Shared/
+│ └── Shared
 
 │ └── \_Layout.cshtml
 
@@ -64,31 +64,31 @@ YourProject/
 
 
 
-\## Features
+## Features
 
 
 
-\- \*\*Lecturer Claim Submission\*\*: Enter month, year, hours worked, rate, total, and upload supporting documents.
+- **Lecturer Claim Submission**: Enter month, year, hours worked, rate, total, and upload supporting documents.
 
-\- \*\*Track Claims\*\*: View submitted claims with real-time filtering/search by Claim ID.
+- **Track Claims**: View submitted claims with real-time filtering/search by Claim ID.
 
-\- \*\*Coordinator Approval\*\*: Approve or reject claims, add comments, and download documents.
+- **Coordinator Approval**: Approve or reject claims, add comments, and download documents.
 
-\- \*\*Manager Approval\*\*: Final approval workflow with comments and document access.
-
-
-
-\## Technologies Used
+- **Manager Approval**: Final approval workflow with comments and document access.
 
 
 
-\- \*\*ASP.NET Core MVC\*\* (.NET 9.0)
+## Technologies Used
 
-\- \*\*C#\*\* for backend logic
 
-\- \*\*Razor Views\*\* for UI templates
 
-\- \*\*Bootstrap 5\*\* for styling and responsive layout
+- **ASP.NET Core MVC** (.NET 9.0)
+
+- **C#** for backend logic
+
+- **Razor Views** for UI templates
+
+- **Bootstrap 5** for styling and responsive layout
 
 
 
@@ -96,11 +96,11 @@ Author
 
 
 
-Student Name: ST10395938
+**Student Number:** ST10395938
 
 
 
-Module: PROG6212 - Programming 2B
+**Module** PROG6212 - Programming 2B
 
 
 
